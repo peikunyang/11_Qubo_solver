@@ -19,14 +19,6 @@ This project evaluates several software-based solvers for **Quadratic Unconstrai
 - **JAX**
 - **SciPy**
 
-QUBO problems are defined as:
-
-\[
-F(X) = X^\mathrm{T} Q X,\quad \text{where } X \in \{0,1\}^n
-\]
-
----
-
 ## 📦 Installation
 
 Install all required Python packages:
