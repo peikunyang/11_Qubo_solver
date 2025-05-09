@@ -1,0 +1,13 @@
+cd /home/kun/job/11_Qubo_solver/2025_03_26/6_SciPy/1_th_-1/1_data_1000/1_solve
+./exe &
+cd /home/kun/job/11_Qubo_solver/2025_03_26/6_SciPy/2_th_-2/1_data_1000/1_solve
+./exe &
+cd /home/kun/job/11_Qubo_solver/2025_03_26/6_SciPy/3_th_-3/1_data_1000/1_solve
+./exe &
+cd /home/kun/job/11_Qubo_solver/2025_03_26/6_SciPy/4_th_-4/1_data_1000/1_solve
+./exe &
+cd /home/kun/job/11_Qubo_solver/2025_03_26/6_SciPy/5_th_-5/1_data_1000/1_solve
+./exe &
+cd /home/kun/job/11_Qubo_solver/2025_03_26/6_SciPy/6_th_-6/1_data_1000/1_solve
+./exe &
+

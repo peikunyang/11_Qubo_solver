@@ -1,0 +1,10 @@
+cd /home/kun/job/11_Qubo_solver/2025_03_26/5_JAX_gpu/2_th_-2/3_data_25000/1_solve
+./exe
+cd /home/kun/job/11_Qubo_solver/2025_03_26/5_JAX_gpu/3_th_-3/3_data_25000/1_solve
+./exe
+cd /home/kun/job/11_Qubo_solver/2025_03_26/5_JAX_gpu/4_th_-4/3_data_25000/1_solve
+./exe
+cd /home/kun/job/11_Qubo_solver/2025_03_26/5_JAX_gpu/5_th_-5/3_data_25000/1_solve
+./exe
+cd /home/kun/job/11_Qubo_solver/2025_03_26/5_JAX_gpu/6_th_-6/3_data_25000/1_solve
+./exe
