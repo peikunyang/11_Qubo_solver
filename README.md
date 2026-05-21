@@ -1,8 +1,8 @@
-# Comparative Evaluation of PyTorch, JAX, SciPy, and Neal for Solving QUBO Problems at Scale
+# Comparative Evaluation of PyTorch, JAX, SciPy, and Neal for Dense QUBO Optimization at Large Matrix Scales
 
 This repository contains the source code and benchmarking framework for the paper:
 
-**Comparative Evaluation of PyTorch, JAX, SciPy, and Neal for Solving QUBO Problems at Scale**  
+**Comparative Evaluation of PyTorch, JAX, SciPy, and Neal for Dense QUBO Optimization at Large Matrix Scales**  
 **Author**: Pei-Kun Yang  
 📧 E-mail: [peikun@isu.edu.tw](mailto:peikun@isu.edu.tw)  
 🆔 ORCID: [0000-0003-1840-6204](https://orcid.org/0000-0003-1840-6204)
