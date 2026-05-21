@@ -1,0 +1,4 @@
+Pytorch Verified Energy: -273348.65625
+JAX Reported Energy: -273348.65630090237
+Energy Difference: 5.0902366638183594e-05
+Status: MATCH

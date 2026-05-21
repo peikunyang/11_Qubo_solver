@@ -1,0 +1,1 @@
+python Solver_3_pytorch_cpu.py ../../1_gen_coe 4_data_45000 1e-1 1 1

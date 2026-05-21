@@ -1,0 +1,44 @@
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 2 1
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 2 2
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 2 3
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 2 4
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 2 5
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 2 1
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 2 2
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 2 3
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 2 4
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 2 5
+
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 3 1
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 3 2
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 3 3
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 3 4
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 3 5
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 3 1
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 3 2
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 3 3
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 3 4
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 3 5
+
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 4 1
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 4 2
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 4 3
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 4 4
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 4 5
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 4 1
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 4 2
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 4 3
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 4 4
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 4 5
+
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 5 1
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 5 2
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 5 3
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 5 4
+python Solver_2_neal.py ../1_gen_coe 1_data_1000 5 5
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 5 1
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 5 2
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 5 3
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 5 4
+python Solver_2_neal.py ../1_gen_coe 2_data_6000 5 5
+
