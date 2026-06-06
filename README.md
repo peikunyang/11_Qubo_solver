@@ -1,4 +1,4 @@
-# Comparative Evaluation of PyTorch, JAX, SciPy, and Neal for Dense QUBO Optimization at Large Matrix Scales
+# Benchmarking Software-Based QUBO Solvers for Large-Scale Dense Binary Optimization
 
 This repository contains the source code and benchmarking framework for the paper:
 
